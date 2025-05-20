@@ -1,0 +1,14 @@
+# Blender MTL File: 'fat_man_Ready.blend'
+# Material Count: 1
+
+newmtl map_FatMan_01
+Ns 84.657972
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.058164 0.015833
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Downloads\\fat man\\textures\\blender\\map_FatMan_01_Normal_OpenGL.png
+map_Ns E:\\Downloads\\fat man\\textures\\blender\\map_FatMan_01_Roughness.png

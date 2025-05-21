@@ -61,4 +61,4 @@ This makes the system flexible: it works even without a custom shader – the **
 
 ## 🧠 Credits
 
-Based on this [YouTube tutorial](https://www.youtube.com/watch?v=WmnYhIwWYfU&t=193s) by Binary Lunar
+Based on this [YouTube tutorial](https://www.youtube.com/watch?v=WmnYhIwWYfU&t=193s) by Gabriel Aguiar Prod.
